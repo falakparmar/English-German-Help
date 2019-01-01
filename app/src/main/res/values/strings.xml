@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">German Help</string>
+
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+    <string name="category_audios">Audio Files</string>
+    <string name="category_play">Play Audios</string>
+    <string name="category_pause">Pause</string>
+    <string name="category_back">Previous</string>
+    <string name="category_next">Forward</string>
+    <string name="category_save">Save</string>
+</resources>
